@@ -1,0 +1,20 @@
+.home{
+    background-color: rgb(26, 188, 156);
+    
+}
+.img i{
+    font-size: 300px;
+    color: rgb(26, 188, 156);
+    background-color: bisque;
+    width: 300px;
+    height: inherit;
+}
+h1{
+    font-size: 64px;
+}
+.line{
+    height: 4px;
+    width: 70px;
+    background-color: white;
+    
+}
